@@ -191,20 +191,20 @@ import {
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "SCSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/MyGethubItIs/project-1-GAME",
+      source_code_link: "https://github.com/MyGethubItIs/Project-8",
     },
     {
       name: "Project-2",
@@ -212,20 +212,20 @@ import {
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "JAVASCRIPT",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/MyGethubItIs/PROJECT-2",
+      source_code_link: "https://github.com/MyGethubItIs/Project-3",
     },
     {
       name: "Project-3",
@@ -233,20 +233,20 @@ import {
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "JAVASCRIPT",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/MyGethubItIs/Project-3",
+      source_code_link: "https://github.com/MyGethubItIs/project-6",
     },
   ];
   
