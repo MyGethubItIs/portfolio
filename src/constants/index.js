@@ -188,7 +188,7 @@ import {
     {
       name: "Project-1",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Shop our responsive React-powered Halloween website for exclusive spooky products. Enjoy frightfully good discounts on costumes and decorations to elevate.",
       tags: [
         {
           name: "HTML",
@@ -209,7 +209,7 @@ import {
     {
       name: "Project-2",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Crafted a brand-focused website, capturing the essence of companies with dynamic design and compelling content. Elevate your brand presence online with my portfolio project.",
       tags: [
         {
           name: "HTML",
@@ -230,7 +230,7 @@ import {
     {
       name: "Project-3",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Designed a mouthwatering burger website, showcasing diverse flavors and tempting visuals. Elevate your taste buds with my portfolio project, a delicious online burger experience.",
       tags: [
         {
           name: "HTML",
