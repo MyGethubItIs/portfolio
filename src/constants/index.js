@@ -42,7 +42,7 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Data Analyst",
       icon: web,
     },
     {
@@ -50,11 +50,11 @@ import {
       icon: mobile,
     },
     {
-      title: "Musician",
+      title: "Content Writer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Artist",
       icon: creator,
     },
   ];
@@ -116,23 +116,23 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "",
+      title: "Data Analyst Intern",
+      company_name: "Start Up",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "April 2024 - June 2024",
       points: [
-        "I am Himanshu a passionate and skilled React.js developer with a strong foundation in front-end development."," Armed with a keen eye for detail and a love for creating seamless user experiences, I thrive in the world of web development."," My journey in the realm of React.js has been marked by a commitment to staying current with the latest trends and technologies, ensuring that I deliver not just functional but also cutting-edge solutions. Whether it's crafting responsive user interfaces, optimizing performance, or solving complex problems, I approach each project with enthusiasm and dedication."," My goal is to contribute to innovative and user-centric applications, bringing ideas to life through the power of React.js.",
+        "Data Collection and Analysis: I gathered and analyzed large datasets to uncover trends and insights that supported strategic decisions."," Data Visualization: I created interactive dashboards and visual reports using Tableau to simplify complex data for quick decision-making.","  Market Research: I conducted market research, analyzing competitors and trends to provide actionable recommendations for the startup's growth"," Collaboration: I worked with marketing and product development teams to deliver data-driven insights that improved strategies and products.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "",
+      title: "Content Writer Intern",
+      company_name: "Kshitiksha Foundation",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "July 2024 - Aug 2024",
       points: [
-        "As a dedicated React Native developer, I specialize in building cross-platform mobile applications that seamlessly blend performance and aesthetics."," My journey in mobile app development has been driven by a passion for creating engaging user experiences that transcend platforms. With a solid foundation in React Native, I bring a unique blend of technical expertise and creative problem-solving to every project."," My goal is to contribute to the ever-evolving mobile landscape, leveraging React Native to bring innovative and user-friendly applications to life.",
+       "Content Creation: I wrote articles, blog posts, and social media content that highlighted the foundation's mission and impact, translating complex ideas into easy-to-understand language.","Research and Data Interpretation: I conducted research and analyzed data related to education and social initiatives, using insights to inform content strategy."," Data-Driven Storytelling: I integrated data into my writing to create compelling, insight-driven narratives that resonated with the audience.","Collaboration: I worked closely with team members to align content with the foundation's goals, emphasizing communication and teamwork.",
       ],
     },
     {
