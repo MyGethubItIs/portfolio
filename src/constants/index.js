@@ -136,24 +136,23 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "",
+      title: "Data Science Intern",
+      company_name: "Prodigy Infotech",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Sep 2024 - Oct 2024",
       points: [
-        "As a dedicated web developer, I am driven by the art and science of crafting immersive digital experiences."," With a solid foundation in front-end and back-end technologies, I thrive on the challenge of transforming creative concepts into functional, user-friendly websites."," My passion for staying abreast of the latest web development trends ensures that I bring a fresh perspective to every project."," Whether it's optimizing performance, implementing cutting-edge features, or solving intricate coding puzzles, I am dedicated to creating web applications that leave a lasting impact.",
+        "Data Collection and Cleaning: Working with raw data from various sources using Python, Pandas, and NumPy, I clean and structure data for accurate analysis."," Data Analysis and Visualization: I create insightful visualizations using Matplotlib and Seaborn, making complex data easy to understand for technical and non-technical stakeholders."," Machine Learning: I apply machine learning algorithms like regression, classification, and clustering using Scikit-learn to build and evaluate predictive models."," Whether it's optimizing performance, implementing cutting-edge features, or solving intricate coding puzzles, I am dedicated to creating web applications that leave a lasting impact.",
       ],
     },
     {
-      title: "Full stack Developer",
+      title: "Current Endeavors and Recent Learning",
       company_name: "",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "2024 - Present",
       points: [
-        "Hi, I'm Himanshu, a seasoned full-stack developer with a passion for creating comprehensive and seamless digital experiences. ","My expertise spans both front-end and back-end technologies, allowing me to architect and implement end-to-end solutions.","From designing intuitive user interfaces to building robust server-side components, I thrive in the intricate dance between client and server. My goal is to leverage my diverse skill set to deliver scalable, efficient, and innovative solutions that not only meet but exceed the evolving needs of modern web development.",
-      ],
+        "I recently completed a Professional Data Analyst course by Google, where I mastered techniques in data wrangling, visualization, and statistical modeling. This training enhanced my proficiency in Python, R, SQL, Tableau, and Excel. ","Additionally, I’m collaborating with an NGO to support their social initiatives. By analyzing community outreach data, I help them make data-informed decisions that further their mission.","I’m currently applying these skills to personal projects, focusing on analyzing large datasets to uncover actionable insights. My passion lies in transforming raw data into strategies that drive positive outcomes.",
     },
   ];
   
