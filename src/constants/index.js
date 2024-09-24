@@ -153,9 +153,10 @@ import {
       date: "2024 - Present",
       points: [
         "I recently completed a Professional Data Analyst course by Google, where I mastered techniques in data wrangling, visualization, and statistical modeling. This training enhanced my proficiency in Python, R, SQL, Tableau, and Excel. ","Additionally, I’m collaborating with an NGO to support their social initiatives. By analyzing community outreach data, I help them make data-informed decisions that further their mission.","I’m currently applying these skills to personal projects, focusing on analyzing large datasets to uncover actionable insights. My passion lies in transforming raw data into strategies that drive positive outcomes.",
-   
-  ];
+  ],
   },
+      ];
+      
   const testimonials = [
     {
       testimonial:
