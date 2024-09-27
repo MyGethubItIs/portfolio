@@ -186,25 +186,25 @@ import {
   
   const projects = [
     {
-      name: "Project-1",
+      name: "Exploring the Bitcoin Cryptocurrency Market",
       description:
-        "Shop our responsive React-powered Halloween website for exclusive spooky products. Enjoy frightfully good discounts on costumes and decorations to elevate.",
+        "Conducted a comprehensive analysis of the Bitcoin cryptocurrency market using real-world data to explore market trends, trading volumes, and price fluctuations. Visualized key metrics and compared Bitcoin’s performance with other cryptocurrencies for better market insights, helping to uncover patterns .",
       tags: [
         {
-          name: "HTML",
+          name: "ML",
           color: "blue-text-gradient",
         },
         {
-          name: "SCSS",
+          name: "PANDAS",
           color: "green-text-gradient",
         },
         {
-          name: "CSS",
+          name: "PYTHON",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/MyGethubItIs/Project-8",
+      source_code_link: "https://github.com/MyGethubItIs/Exploring-the-Bitcoin-Cryptocurrency-Market",
     },
     {
       name: "Project-2",
