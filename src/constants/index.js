@@ -207,46 +207,46 @@ import {
       source_code_link: "https://github.com/MyGethubItIs/Exploring-the-Bitcoin-Cryptocurrency-Market",
     },
     {
-      name: "Project-2",
+      name: "OntoGuide: Personalized ContentRecommendation System",
       description:
-        "Crafted a brand-focused website, capturing the essence of companies with dynamic design and compelling content. Elevate your brand presence online with my portfolio project.",
+        "Developed a content recommendation system using ontological tables to enhance semantic understanding and deliver highly accurate and personalized content recommendations. Improved user experience by user preferences.",
       tags: [
         {
-          name: "HTML",
+          name: "NLP",
           color: "blue-text-gradient",
         },
         {
-          name: "JAVASCRIPT",
+          name: "PYTHON",
           color: "green-text-gradient",
         },
         {
-          name: "CSS",
+          name: "ML",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/MyGethubItIs/Project-3",
+      source_code_link: "https://github.com/MyGethubItIs/OntoGuide-Personalized-Content-Recommendation/tree/main",
     },
     {
-      name: "Project-3",
+      name: "HealthTrackr: Smart Health Monitoring System",
       description:
-        "Designed a mouthwatering burger website, showcasing diverse flavors and tempting visuals. Elevate your taste buds with my portfolio project, a delicious online burger experience.",
+        "A smart health monitoring system designed to track and analyze vital health metrics in real-time. Provides personalized health insights and alerts, making it easier to manage health conditions and stay informed about overall well-being.",
       tags: [
         {
-          name: "HTML",
+          name: "PYTHON",
           color: "blue-text-gradient",
         },
         {
-          name: "JAVASCRIPT",
+          name: "MYSQL",
           color: "green-text-gradient",
         },
         {
-          name: "CSS",
+          name: "AI/ML",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/MyGethubItIs/project-6",
+      source_code_link: "https://github.com/MyGethubItIs/HealthTrackr-Smart-Health-Monitoring/tree/main",
     },
   ];
   
